@@ -1,0 +1,18 @@
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.exe.config
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.exe
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.pdb
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\MetroFramework.dll
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\ResortManagement.csprojResolveAssemblyReference.cache
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.LoginForm.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\ResortManagement.csproj.GenerateResource.Cache
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.exe
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.pdb
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.UserHomePage.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.Registration.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.AdminHomePage.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.BookingConfirmation.resources
+F:\adbms\UI\UI\bin\Debug\UI.exe.config
+F:\adbms\UI\UI\obj\Debug\UI.exe
+F:\adbms\UI\UI\obj\Debug\UI.pdb

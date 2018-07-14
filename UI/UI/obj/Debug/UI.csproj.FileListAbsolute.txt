@@ -1,0 +1,10 @@
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.exe.config
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.exe
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\UI.pdb
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\bin\Debug\MetroFramework.dll
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.exe
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.pdb
+C:\Users\root_user\Documents\Visual Studio 2013\Test\UI\UI\obj\Debug\UI.LoginForm.resources
